@@ -1,14 +1,14 @@
 {
-  "prefix": "/",
+  "prefix": "HERE IS MAHI BOT PREFIX /",
   "greetNewMembers": {
         "enabled": true,
         "gifUrl": "https://tinyurl.com/2xzaydex"
   },
   "port": "8080",
-  "owner": "Samir Œ",
-  "owner_id": 1472439428,
-  "token": "",
-  "age": "14",
+  "owner": "Mahi Ahmed",
+  "owner_id": 6873542221,
+  "token": "7049223637:AAF-r5JO-56zyEPSBNjuRIdtYCilWVrDGJg",
+  "age": "20",
   "gender": "male",
   "country": "Bangladesh"
 }
